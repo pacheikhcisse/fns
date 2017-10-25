@@ -1,0 +1,81 @@
+{
+	"leagues": [
+		{
+        "Id": "1",
+        "Name": "English Premier League",
+        "Country": "England",
+        "Historical_Data": "Yes",
+        "Fixtures": "Yes",
+        "Livescore": "Yes",
+        "NumberOfMatches": "6550",
+        "LatestMatch": "2017-10-22T17:00:00+00:00",
+        "IsCup": "false"
+      },
+      {
+        "Id": "4",
+        "Name": "Bundesliga",
+        "Country": "Germany",
+        "Historical_Data": "Yes",
+        "Fixtures": "Yes",
+        "Livescore": "Yes",
+        "NumberOfMatches": "5284",
+        "LatestMatch": "2017-10-22T18:00:00+00:00",
+        "IsCup": "false"
+      },
+      {
+        "Id": "5",
+        "Name": "Serie A",
+        "Country": "Italy",
+        "Historical_Data": "Yes",
+        "Fixtures": "Yes",
+        "Livescore": "Yes",
+        "NumberOfMatches": "6253",
+        "LatestMatch": "2017-10-22T20:45:00+00:00",
+        "IsCup": "false"
+      },
+	  {
+        "Id": "7",
+        "Name": "Ligue 1",
+        "Country": "France",
+        "Historical_Data": "Yes",
+        "Fixtures": "Yes",
+        "Livescore": "Yes",
+        "NumberOfMatches": "6411",
+        "LatestMatch": "2017-10-22T21:00:00+00:00",
+        "IsCup": "false"
+      },
+      {
+        "Id": "8",
+        "Name": "La Liga",
+        "Country": "Spain",
+        "Historical_Data": "Yes",
+        "Fixtures": "Yes",
+        "Livescore": "Yes",
+        "NumberOfMatches": "6550",
+        "LatestMatch": "2017-10-23T21:00:00+00:00",
+        "IsCup": "false"
+      },
+      {
+        "Id": "16",
+        "Name": "Champions League",
+        "Country": "Europe",
+        "Historical_Data": "Partial",
+        "Fixtures": "Yes",
+        "Livescore": "Yes",
+        "NumberOfMatches": "877",
+        "LatestMatch": "2017-10-18T20:45:00+00:00",
+        "IsCup": "true"
+      },
+      {
+        "Id": "17",
+        "Name": "Europe League",
+        "Country": "Europe",
+        "Historical_Data": "Partial",
+        "Fixtures": "Yes",
+        "Livescore": "Yes",
+        "NumberOfMatches": "1753",
+        "LatestMatch": "2017-10-19T21:05:00+00:00",
+        "IsCup": "true"
+      }	  
+	]
+}
